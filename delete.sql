@@ -1,0 +1,4 @@
+DELETE FROM bikes;
+DELETE FROM shops;
+DELETE FROM customers;
+DELETE FROM sales;
